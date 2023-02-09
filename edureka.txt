@@ -1,1 +1,2 @@
-Hi, this is the first session on git lessons
+Hi, This is the first session on git lessons
+Second change. add a second line
